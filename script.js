@@ -9,16 +9,16 @@ const imagemAleatoria = document.getElementById('imagem-aleatoria');
 
 const imagensalea = [
   
-  'fotos/nirvana1.jpg',
-  'fotos/nirvana2.jpg',
-  'fotos/nirvana4.jpg',
-  'fotos/nirvana5.jpg',
-  'fotos/nirvana6.jpg',
-  'fotos/nirvana7.jpg',
-  'fotos/nirvana8.jpg',
-  'fotos/nirvana9.jpg',
-  'fotos/nirvana10.jpg',
-  'fotos/nirvana11.jpg',
+  'nirvana1.jpg',
+  'nirvana2.jpg',
+  'nirvana4.jpg',
+  'nirvana5.jpg',
+  'nirvana6.jpg',
+  'nirvana7.jpg',
+  'nirvana8.jpg',
+  'nirvana9.jpg',
+  'nirvana10.jpg',
+  'nirvana11.jpg',
 ];
 
 botaoFoto.addEventListener('click', function() {
